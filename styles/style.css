@@ -1,4 +1,7 @@
-#modal-box{
+body{
+    background-color:darkcyan;
+}
+#add-book-form{
     display: none;
     position: fixed; 
     top: 50%;
