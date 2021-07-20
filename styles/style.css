@@ -1,7 +1,7 @@
 body{
     background-color:darkcyan;
 }
-#add-book-form{
+.pop-form{
     display: none;
     position: fixed; 
     top: 50%;
